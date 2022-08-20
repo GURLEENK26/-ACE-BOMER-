@@ -1,5 +1,5 @@
-# -ACE-BOMER-
--- BY-ACE --
+#                    -ACE-BOMER-
+                    << BY-ACE >>
 
                      \|/
                        `--+--'
